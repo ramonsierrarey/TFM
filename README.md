@@ -1,5 +1,4 @@
-# TFM
-Data Science - TFM - Análisis de expansión de negocio
+# TFM - Análisis de expansión de negocio
 
 Pasos:
 1. Crear base de datos con los nombres de los centros comerciales existentes en la península. Lo conseguimos escrapeando la web: https://www.centro-comercial.org
