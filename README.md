@@ -8,7 +8,7 @@ Pasos:
    Input: fichero "Centros_Comerciales.xlsx"
    Output: fichero "XXXXXXXXXX.xlsx"
    
-![alt text](https://github.com/[ramonsierrarey]/[TFM]/[jpg]/Spain_map_CC.jpg?raw=true)
+![MAP!](https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG)
 
 3. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
    Input: Fuente externa: Base datos códigos postales "XXXXXXXXXXXXXXXXXXXX.xlsx"
