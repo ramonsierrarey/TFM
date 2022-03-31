@@ -8,7 +8,7 @@ Pasos:
    Input: fichero "Centros_Comerciales.xlsx"
    Output: fichero "XXXXXXXXXX.xlsx"
    
-<div align="center"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
+<div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
 
 3. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
    Input: Fuente externa: Base datos códigos postales "XXXXXXXXXXXXXXXXXXXX.xlsx"
