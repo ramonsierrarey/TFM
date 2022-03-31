@@ -1,1 +1,3 @@
-
+Input: Obetnemos de fuente externa, los codigos postales y su tamaño de mercado. "Datos_CP.xlsx".
+Corremos dicho fichero sobre la API de googlemaps para conseguir un punto de ubicación de dichos codigos postales (Latitude, longitude).
+Output: "Codigos_Postales.csv"
