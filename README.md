@@ -3,8 +3,8 @@
 Pasos:
 
 0. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
-   \ Input: Fuente externa: Base datos códigos postales "Datos_CP.xlsx". Donde obtendremos listado de códigos postales de España y su tamaño de mercado (€).
-   \ Output: "Codigos Postales.csv".
+   * Input: Fuente externa: Base datos códigos postales "Datos_CP.xlsx". Donde obtendremos listado de códigos postales de España y su tamaño de mercado (€).
+   * Output: "Codigos Postales.csv".
 
   <div align="left"><img src="https://user-images.githubusercontent.com/56726458/161086803-b24acbf4-8cc3-4bc6-9991-82bcbddbff45.JPG" width="286" height="233"> 
 
