@@ -10,8 +10,8 @@ Pasos:
 
 1. Creamos base de datos con el listado de centros comerciales. Lo conseguimos escrapeando la web: https://www.centro-comercial.org
    Para determinar su ubicación. Lo conseguimos mediante la API de Google Maps, obteniendo: Latitud, Longitus, Dirección. De la Dirección extraeremos el código postal.
-   \ Input: https://www.centro-comercial.org
-   \ Output: fichero "Centros_Comerciales.csv"
+   * Input: https://www.centro-comercial.org
+   * Output: fichero "Centros_Comerciales.csv"
    
 <div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
    
