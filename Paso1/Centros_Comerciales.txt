@@ -1,1 +1,2 @@
-
+Obtenemos los centros comerciales de la web y lo pasamos por la API de googlemaps, para obtener su ubicación y dirección.
+Con la dirección extraemos el codigo postal que nos servirá de punto de conexion para el cáculo de áreas de influencia.
