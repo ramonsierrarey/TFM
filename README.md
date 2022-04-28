@@ -15,3 +15,4 @@ Pasos:
    
 <div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
    
+2.
