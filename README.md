@@ -15,9 +15,9 @@ Pasos:
    
 <div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
   
-  <div align="left"><img src="https://user-images.githubusercontent.com/56726458/173162936-303334cb-18ac-4820-b928-190cd6b19e86.JPG" width="286" height="233">
-
- ![Map_Potencial](https://user-images.githubusercontent.com/56726458/173162936-303334cb-18ac-4820-b928-190cd6b19e86.JPG)
+ 
+# Business Expansion Analysis
+![Logo_TFM](https://user-images.githubusercontent.com/56726458/173163556-e6e82cca-f374-400a-8a60-4f13fa8ca043.JPG)
   
   This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)  
 Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.
