@@ -26,7 +26,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 
 # Introduction
 
-  Our idea began when we would like to know in an expansion perspective... If we would like to open a new selling point, where can we open it? There´s a lot of posibilities. With a low invenstment we can open in a rent space (in any shoping center area). If we know the behabour of our custmoers, the market size of the product that we are selling, Could we detect the potencial point to open?
+  Our idea began when we would like to know in an expansion perspective... If we would like to open a new selling point, where can we open it? There´s a lot of posibilities. With a low invenstment we can open in a rent space (in any shoping center area). If we know the behabour of our customers, the market size of the product that we are selling, Could we detect the potencial point to open?
 
   
 # Methodology
