@@ -60,8 +60,7 @@ pandas==XXXX
 scikit-learn==1.0.2
 xgboost==XXX
 
-
-
+```
 
 # TFM - Análisis de expansión de negocio
 
