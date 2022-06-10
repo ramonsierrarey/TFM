@@ -1,21 +1,3 @@
-# TFM - Análisis de expansión de negocio
-
-Pasos:
-
-0. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
-   * Input: Fuente externa: Base datos códigos postales "Datos_CP.xlsx".
-   * Output: "Codigos Postales.csv". Donde obtendremos listado de códigos postales de España "CP", su tamaño de mercado (€) y ubicación.
-
-  <div align="left"><img src="https://user-images.githubusercontent.com/56726458/161086803-b24acbf4-8cc3-4bc6-9991-82bcbddbff45.JPG" width="286" height="233"> 
-
-1. Creamos base de datos con el listado de centros comerciales. Lo conseguimos escrapeando la web: https://www.centro-comercial.org
-   Para determinar su ubicación. Lo conseguimos mediante la API de Google Maps, obteniendo: Latitud, Longitus, Dirección. De la Dirección extraeremos el código postal.
-   * Input: https://www.centro-comercial.org
-   * Output: fichero "Centros_Comerciales.csv"
-   
-<div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
-  
- 
 # Business Expansion Analysis
 ![Logo_TFM](https://user-images.githubusercontent.com/56726458/173163556-e6e82cca-f374-400a-8a60-4f13fa8ca043.JPG)
   
@@ -77,3 +59,24 @@ numpy==XXXXX
 pandas==XXXX
 scikit-learn==1.0.2
 xgboost==XXX
+
+
+
+
+# TFM - Análisis de expansión de negocio
+
+Pasos:
+
+0. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
+   * Input: Fuente externa: Base datos códigos postales "Datos_CP.xlsx".
+   * Output: "Codigos Postales.csv". Donde obtendremos listado de códigos postales de España "CP", su tamaño de mercado (€) y ubicación.
+
+  <div align="left"><img src="https://user-images.githubusercontent.com/56726458/161086803-b24acbf4-8cc3-4bc6-9991-82bcbddbff45.JPG" width="286" height="233"> 
+
+1. Creamos base de datos con el listado de centros comerciales. Lo conseguimos escrapeando la web: https://www.centro-comercial.org
+   Para determinar su ubicación. Lo conseguimos mediante la API de Google Maps, obteniendo: Latitud, Longitus, Dirección. De la Dirección extraeremos el código postal.
+   * Input: https://www.centro-comercial.org
+   * Output: fichero "Centros_Comerciales.csv"
+   
+<div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
+
