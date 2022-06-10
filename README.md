@@ -31,3 +31,17 @@ This project has been developed by [Francisco Javier Planells](https://github.co
   
 # Methodology
   
+  ## Data adquisition
+* We get two types of external sources to begin the process: esternal and internal data.
+* **external data**: two files: "Datos_CP.xlsx" and "Sales_per_point.csv"
+* **internal data**: Web Scraping. We used **Selenium Webdriver** to scrape and create a data base with the name of the shoping centers in Spain, from [www.centro-comercial.org]
+
+## Data cleansing and preparation
+
+
+## Analysis
+
+  
+## Frontend
+* we use a frontend from micorosft: Power BI Desktop. We show ... 
+
