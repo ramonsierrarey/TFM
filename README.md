@@ -14,8 +14,11 @@ Pasos:
    * Output: fichero "Centros_Comerciales.csv"
    
 <div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
-   
-This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)  
+  
+  <div align="left"><img src="https://user-images.githubusercontent.com/56726458/173162936-303334cb-18ac-4820-b928-190cd6b19e86.JPG" width="286" height="233">
+
+  
+  This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)  
 Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.
   
   # Table of Contents
