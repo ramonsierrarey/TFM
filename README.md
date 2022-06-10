@@ -48,7 +48,7 @@ Queremos predecir las ventas de una tienda basándonos en la cuota de mercado qu
 Queremos predecir las ventas de una tienda basándonos en la cuota de mercado que alcanza de un CP dependiendo de la distancia a ese CP.
   
 ## Frontend
-* we use a frontend from micorosft: Power BI Desktop. We show ... 
+we use a frontend from micorosft: Power BI Desktop. We show ... 
 
 # Requirements
 
