@@ -22,6 +22,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 
 [Introduction](#introduction) <br>
 [Methodology](#methodology) <br>
+[Requirements](#requirements) <br>
 
 
 # Introduction
@@ -38,11 +39,37 @@ We get two types of external sources to begin the process: esternal and internal
   **Google API**. We used to get the latitude and longitude of spanish zip code ("Datos_CP.xlsx").
 
 ## Data cleansing and preparation
-
+We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.
+we have the sales of our current shoping center stores, Juntamos las ventas por CP por cada Punto de venta y las coordenadas, para saber la venta por distancia y el tamaño del mercado.
 
 ## Analysis
-
+Analisis del comportamiento de la cuota de mercado vs distancia
+Queremos predecir las ventas de una tienda basándonos en la cuota de mercado que alcanza de un CP dependiendo de la distancia a ese CP
+Queremos predecir las ventas de una tienda basándonos en la cuota de mercado que alcanza de un CP dependiendo de la distancia a ese CP.
   
 ## Frontend
 * we use a frontend from micorosft: Power BI Desktop. We show ... 
 
+# Requirements
+
+We'll use the Anaconda virtual environment with Python 3.7
+
+### Anaconda Python Packages
+
+* beautifulsoup4
+* matplotlib
+* numpy
+* pandas
+* requests
+* scipy
+* seaborn
+* scikit-learn
+* xgboost
+
+For avoiding future compatibility issues, here are the versions of the key libraries used:
+
+```
+numpy==XXXXX
+pandas==XXXX
+scikit-learn==1.0.2
+xgboost==XXX
