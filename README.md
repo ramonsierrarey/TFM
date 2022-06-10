@@ -33,8 +33,8 @@ This project has been developed by [Francisco Javier Planells](https://github.co
   
   ## Data adquisition
 * We get two types of external sources to begin the process: esternal and internal data.
-* __external data__: two files: "Datos_CP.xlsx" and "Sales_per_point.csv"
-* **internal data**: **Web Scraping**. We used **Selenium Webdriver** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and Google API (Geocoding API) to get the address and extract the Zip Code.
+* _external data_: two files: "Datos_CP.xlsx" and "Sales_per_point.csv"
+* _internal data_: Web Scraping. We used **Selenium Webdriver** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and **Google API** (Geocoding API) to get the address and extract the Zip Code.
   **Google API**. We used to get the latitude and longitude of spanish zip code (file "Datos_CP.xlsx").
 
 ## Data cleansing and preparation
