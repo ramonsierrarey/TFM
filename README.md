@@ -15,4 +15,19 @@ Pasos:
    
 <div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
    
-2.
+This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)
+  Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.
+  
+  # Table of Contents
+
+[Introduction](#introduction) <br>
+[Methodology](#methodology) <br>
+
+
+# Introduction
+
+  Our idea began when we would like to know in an expansion perspective... If we would like to open a new selling point, where can we open it? There´s a lot of posibilities. With a low invenstment we can open in a rent space (in any shoping center area). If we know the behabour of our custmoers, the market size of the product that we are selling, Could we detect the potencial point to open?
+
+  
+# Methodology
+  
