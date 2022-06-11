@@ -25,7 +25,7 @@ We get two types of external sources to begin the process: esternal and internal
   **Google API**. We used to get the latitude and longitude of spanish zip code ("Datos_CP.xlsx").
 
 ## Data cleansing and preparation
-We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.
+We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.  
 we have the sales of our current shoping center stores, Juntamos las ventas por CP por cada Punto de venta y las coordenadas, para saber la venta por distancia y el tamaño del mercado.
 
 ## Analysis
