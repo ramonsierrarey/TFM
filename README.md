@@ -9,6 +9,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Introduction](#introduction) <br>
 [Methodology](#methodology) <br>
 [Requirements](#requirements) <br>
+[Conclusions](#conclusions) <br>
 
 
 # Introduction
@@ -62,6 +63,10 @@ pandas==XXXX
 scikit-learn==1.0.2
 xgboost==XXX
 ```
+
+# Conclusions
+
+
 
 # TFM - Análisis de expansión de negocio
 
