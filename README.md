@@ -75,7 +75,7 @@ jupyter==1.0.0
 
 scikit-learn==1.0.2
 ```
-An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml* name.
+An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml*.
 
 # Conclusions
 
