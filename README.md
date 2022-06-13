@@ -49,7 +49,7 @@ Conda version used==4.13.0
 **CODE**
 ````markdown
 conda create -n TFM python=3.7
-conda axtive TFM
+conda active TFM
 conda install pandas openpyxl matplotlib jupyter
 ````
 All the dependencies packages has been installed.
