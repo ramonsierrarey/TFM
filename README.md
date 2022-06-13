@@ -49,7 +49,7 @@ conda axtive TFM
 conda install pandas openpyxl matplotlib jupyter
 
 ```
-
+All the dependencies packages has beeb installed.
 
 ### Anaconda Python Packages
 
@@ -59,7 +59,7 @@ conda install pandas openpyxl matplotlib jupyter
 * jupyter
 * scikit-learn (pip install included in notebook with specific version)
 
-For avoiding future compatibility issues, here are the versions of the key libraries used:
+For avoiding future compatibility issues, here are the versions of the main key libraries used:
 
 ```
 pandas==1.3.5
