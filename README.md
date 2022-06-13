@@ -25,7 +25,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 We get two types of external sources to begin the process: esternal and internal data:
 * _external data_: two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
 
-* _internal data_: Web Scraping. We used **Selenium Webdriver** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and **Google API** (Geocoding API) to get the address and extract the Zip Code.
+* _internal data_: Web Scraping. We have used **Beautifulsoup4** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and **Google API** (Geocoding API) to get the address and extract the Zip Code.
   **Google API**. We used to get the latitude and longitude of spanish zip code ("Datos_CP.xlsx").
 
 ## Data cleansing and preparation
@@ -37,11 +37,14 @@ We would like to predict the sales of a homefurnishing shop (in a shopping centr
 
   
 ## Frontend
-we use a frontend from micorosft: Power BI Desktop. We show ... 
+we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required be installed to dive into the report ( PBI_Visualization.pbi).
+But loging account is not needed.
+
 
 # Requirements
 
 We'll use the Anaconda virtual environment with Python 3.7.
+Conda version used==4.13.0
 
 **CODE**
 ````markdown
