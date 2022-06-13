@@ -43,11 +43,13 @@ we use a frontend from micorosft: Power BI Desktop. We show ...
 
 We'll use the Anaconda virtual environment with Python 3.7.
 
-```
+````markdown
+```csharp
 conda create -n TFM python=3.7
 conda axtive TFM
 conda install pandas openpyxl matplotlib jupyter
 ```
+````
 All the dependencies packages has beeb installed.
 
 ### Anaconda Python Packages
