@@ -63,9 +63,13 @@ For avoiding future compatibility issues, here are the versions of the main key 
 
 ```
 pandas==1.3.5
+
 googlemaps==4.6.0
+
 matplotlib==3.5.1
+
 jupyter==1.0.0
+
 scikit-learn==1.0.2
 ```
 
