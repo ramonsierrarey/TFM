@@ -41,27 +41,31 @@ we use a frontend from micorosft: Power BI Desktop. We show ...
 
 # Requirements
 
-We'll use the Anaconda virtual environment with Python 3.7
+We'll use the Anaconda virtual environment with Python 3.7.
+
+```
+conda create -n TFM python=3.7
+conda axtive TFM
+conda install pandas openpyxl matplotlib jupyter
+
+```
+
 
 ### Anaconda Python Packages
 
-* beautifulsoup4
-* matplotlib
-* numpy
 * pandas
-* requests
-* scipy
-* seaborn
-* scikit-learn
-* xgboost
+* googlemaps (pip install included in notebook)
+* matplotlib
+* jupyter
+* scikit-learn (pip install included in notebook with specific version)
 
 For avoiding future compatibility issues, here are the versions of the key libraries used:
 
 ```
-numpy==XXXXX
-pandas==XXXX
+pandas==1.3.5
+googlemaps==4.6.0
 scikit-learn==1.0.2
-xgboost==XXX
+
 ```
 
 # Conclusions
