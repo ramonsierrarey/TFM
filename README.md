@@ -47,7 +47,6 @@ We'll use the Anaconda virtual environment with Python 3.7.
 conda create -n TFM python=3.7
 conda axtive TFM
 conda install pandas openpyxl matplotlib jupyter
-
 ```
 All the dependencies packages has beeb installed.
 
