@@ -14,7 +14,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 
 # Introduction
 
-  Our idea began when we would like to know in an expansion perspective... If we would like to open a new selling point, where can we open it? There´s a lot of posibilities. With a low invenstment we can open in a rent space (in any shoping center area). If we know the behabour of our customers, the market size of the product that we are selling, Could we detect the potencial point to open?  
+  Our idea began when we would like to know in an expansion perspective... If we would like to open a new selling point, where can we open it? There´s a lot of posibilities. With a low invenstment we can open in a rent space (in any shoping center area). If we know the behabour of our customers, the market size of the product that we are selling... Could we detect the potencial point to open?  
   
   With our "Business Expansion Analysis", we would like to answer these questions and  we try to create a support business tool to help in the decision process when you think to open a small shop in a spanish shoping center.
 
@@ -23,18 +23,18 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
   
   ## Data adquisition
 We get two types of external sources to begin the process: esternal and internal data:
-* _external data_: two files: "Datos_CP.xlsx" and "Sales_per_point.csv"
+* _external data_: two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
+
 * _internal data_: Web Scraping. We used **Selenium Webdriver** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and **Google API** (Geocoding API) to get the address and extract the Zip Code.
   **Google API**. We used to get the latitude and longitude of spanish zip code ("Datos_CP.xlsx").
 
 ## Data cleansing and preparation
 We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.  
-we have the sales of our current shoping center stores, Juntamos las ventas por CP por cada Punto de venta y las coordenadas, para saber la venta por distancia y el tamaño del mercado.
+we have the sales of our current shoping center stores. We link sales per zipcode and sales point  with their coordinates (lat and lon). We get the sales per distance and the size of the market.
 
 ## Analysis
-Analisis del comportamiento de la cuota de mercado vs distancia
-Queremos predecir las ventas de una tienda basándonos en la cuota de mercado que alcanza de un CP dependiendo de la distancia a ese CP
-Queremos predecir las ventas de una tienda basándonos en la cuota de mercado que alcanza de un CP dependiendo de la distancia a ese CP.
+We would like to predict the sales of a homefurnishing shop (in a shopping centre). we base this analysis taking in cosideration the market share  that cover a zip code and the distance between zip codes. 
+
   
 ## Frontend
 we use a frontend from micorosft: Power BI Desktop. We show ... 
