@@ -82,7 +82,7 @@ An conda export ennvironment file (.yml extension) has been created. It is uploa
 
 # Modeling and Measures
 
-We are going to use several ML Classifiers algorithms, mostly from `scikit-learn`:
+We have used several ML Classifiers algorithms, mostly from `scikit-learn`:
 
 * Linear Regression
 
@@ -96,12 +96,14 @@ We are going to use several ML Classifiers algorithms, mostly from `scikit-learn
 
 ![DT_Model](https://user-images.githubusercontent.com/56726458/173644907-4cfe1ea2-1569-4c73-bcb0-d32162aa426c.JPG)
 
+All these models with differente analysis metrics:
 
 MAE. Mean Absolute Error. (Mean of all the prediction errors)
 MAPE. Mean Absolute Percentage error. (Mean Absolute Error / Mean real values)
 RMSE. Root Mean Square Error (High errors affects more than small ones)
 Correlation (between the prediction and the real value)
 Bias (Average of errors)
+
 
 
 
