@@ -10,6 +10,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Methodology](#methodology) <br>
 [Requirements](#requirements) <br>
 [Conclusions](#conclusions) <br>
+[Modeling and Measures](#modeling and measures) <br>
 
 
 # Introduction
@@ -39,7 +40,7 @@ We would like to predict the sales of a homefurnishing shop (in a shopping centr
 
   
 ## Frontend
-we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required be installed to dive into the report ( PBI_Visualization.pbi).
+we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required to be installed and dive into the report ( PBI_Visualization.pbi).
 But loging account is not needed.
 
 
@@ -78,6 +79,22 @@ jupyter==1.0.0
 scikit-learn==1.0.2
 ```
 An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml*.
+
+# Modeling and Measures
+
+We are going to use several ML Classifiers algorithms, mostly from `scikit-learn`:
+
+* Linear Regression
+* K-nearest Neighbors
+* Decision Tree
+
+MAE. Mean Absolute Error. (Mean of all the prediction errors)
+MAPE. Mean Absolute Percentage error. (Mean Absolute Error / Mean real values)
+RMSE. Root Mean Square Error (High errors affects more than small ones)
+Correlation (between the prediction and the real value)
+Bias (Average of errors)
+
+
 
 # Conclusions
 
