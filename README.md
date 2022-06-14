@@ -89,6 +89,9 @@ We are going to use several ML Classifiers algorithms, mostly from `scikit-learn
 ![LR_Model](https://user-images.githubusercontent.com/56726458/173640185-e1c3fe5a-e983-4787-9e3c-6279a6e3e17e.JPG)
 
 * K-nearest Neighbors + GS (GridSearch)
+
+![K-Neighbors_Model](https://user-images.githubusercontent.com/56726458/173641015-00e006f4-01a0-4d08-91ed-441e8a7a8062.JPG)
+
 * Decision Tree + GS
 
 MAE. Mean Absolute Error. (Mean of all the prediction errors)
