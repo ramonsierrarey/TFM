@@ -80,7 +80,7 @@ scikit-learn==1.0.2
 ```
 An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml*.
 
-# Modeling
+# Modeling and Measures
 
 We are going to use several ML Classifiers algorithms, mostly from `scikit-learn`:
 
