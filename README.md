@@ -85,8 +85,10 @@ An conda export ennvironment file (.yml extension) has been created. It is uploa
 We are going to use several ML Classifiers algorithms, mostly from `scikit-learn`:
 
 * Linear Regression
-* K-nearest Neighbors
-* Decision Tree
+
+
+* K-nearest Neighbors + GS (GridSearch)
+* Decision Tree + GS
 
 MAE. Mean Absolute Error. (Mean of all the prediction errors)
 MAPE. Mean Absolute Percentage error. (Mean Absolute Error / Mean real values)
