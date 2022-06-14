@@ -15,6 +15,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Requirements](#requirements) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
 [Conclusions](#conclusions) <br>
+[MEMORIA](https://github.com/ramonsierrarey/TFM/wiki/Memoria) <br>
 
 
 # Introduction
