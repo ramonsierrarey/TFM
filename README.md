@@ -9,7 +9,7 @@ To get more detail information visit [Memoria](https://github.com/ramonsierrarey
 
 [Introduction](#introduction) <br>
 [Methodology](#methodology) <br>
-[Data adquisition](#Data-adquisition) <br>
+[Data acquisition](#Data-acquisition) <br>
 [Data cleansing and preparation](#Data-cleansing-and-preparation) <br>
 [Analysis](#analysis) <br>
 [Frontend](#frontend) <br>
@@ -31,7 +31,7 @@ We have used linear regression and non-linear regression models such as Decision
 
 
   
-# Data adquisition
+# Data acquisition
 We get two types of sources to begin the process: esternal and internal data:
 * _external data_:We receive the data. There are two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
 
