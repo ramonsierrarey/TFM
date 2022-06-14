@@ -16,7 +16,6 @@ To get more detail information [Memoria](https://github.com/ramonsierrarey/TFM/w
 [Requirements](#requirements) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
 [Conclusions](#conclusions) <br>
-[Memoria](https://github.com/ramonsierrarey/TFM/wiki/Memoria) <br>
 
 
 # Introduction
