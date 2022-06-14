@@ -3,7 +3,7 @@
   
   This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)  
 Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.  
-To get more detail information [Memoria](https://github.com/ramonsierrarey/TFM/wiki/Memoria)
+To get more detail information visit [Memoria](https://github.com/ramonsierrarey/TFM/wiki/Memoria) in wiki section.
   
   # Table of Contents
 
