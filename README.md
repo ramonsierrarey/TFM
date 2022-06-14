@@ -22,11 +22,14 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 # Methodology
   
   ## Data adquisition
-We get two types of external sources to begin the process: esternal and internal data:
-* _external data_: two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
+We get two types of sources to begin the process: esternal and internal data:
+* _external data_:We receive the data. There are two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
 
-* _internal data_: Web Scraping. We have used **Beautifulsoup4** to scrape and create a data base with the name of the shoping centers in Spain, from www.centro-comercial.org and **Google API** (Geocoding API) to get the address and extract the Zip Code.
-  **Google API**. We used to get the latitude and longitude of spanish zip code ("Datos_CP.xlsx").
+* _internal data_: we generate the data.Method used: Web Scraping. We have used **Beautifulsoup4** library to scrape and create a data base. 
+
+First step. We get the name of the shoping centers in Spain, from www.centro-comercial.org.
+Second step. we get the address and extract the Zip Code of the shopping centres with **Google API** (Geocoding API).
+Third step. Get the latitude and longitude of all the spanish zip codes ("Datos_CP.xlsx") with **Google API**.
 
 ## Data cleansing and preparation
 We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.  
