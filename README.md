@@ -109,6 +109,7 @@ All these models with differente analysis metrics:
 
 # Conclusions
 
+![Pbi_01](https://user-images.githubusercontent.com/56726458/173658928-6969bc9a-3d4d-4767-b3f9-14453c81d293.JPG)
 
 
 # TFM - Análisis de expansión de negocio
