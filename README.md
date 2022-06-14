@@ -9,7 +9,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Introduction](#introduction) <br>
 [Methodology](#methodology) <br>
 [Data adquisition](#Data-adquisition) <br>
-[# Data cleansing and preparation](#Data-cleansing-and-preparation) <br>
+[Data cleansing and preparation](#Data-cleansing-and-preparation) <br>
 [Analysis](#analysis) <br>
 [Frontend](#frontend) <br>
 [Requirements](#requirements) <br>
