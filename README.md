@@ -98,11 +98,11 @@ We have used several ML Classifiers algorithms, mostly from `scikit-learn`:
 
 All these models with differente analysis metrics:
 
-MAE. Mean Absolute Error. (Mean of all the prediction errors)
-MAPE. Mean Absolute Percentage error. (Mean Absolute Error / Mean real values)
-RMSE. Root Mean Square Error (High errors affects more than small ones)
-Correlation (between the prediction and the real value)
-Bias (Average of errors)
+* MAE. Mean Absolute Error. (Mean of all the prediction errors)  
+* MAPE. Mean Absolute Percentage error. (Mean Absolute Error / Mean real values)  
+* RMSE. Root Mean Square Error (High errors affects more than small ones)  
+* Correlation (between the prediction and the real value)  
+* Bias (Average of errors)  
 
 ![Compare_metrics](https://user-images.githubusercontent.com/56726458/173650957-1c355721-6f4b-4e17-889f-815c5fcdcaeb.JPG)
 
