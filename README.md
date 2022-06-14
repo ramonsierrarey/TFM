@@ -104,7 +104,7 @@ RMSE. Root Mean Square Error (High errors affects more than small ones)
 Correlation (between the prediction and the real value)
 Bias (Average of errors)
 
-
+![Compare_metrics](https://user-images.githubusercontent.com/56726458/173650957-1c355721-6f4b-4e17-889f-815c5fcdcaeb.JPG)
 
 
 # Conclusions
