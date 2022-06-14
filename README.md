@@ -10,7 +10,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Methodology](#methodology) <br>
 [Requirements](#requirements) <br>
 [Conclusions](#conclusions) <br>
-[Modeling and Measures](#modeling and measures) <br>
+[Modeling and Measures](#modeling) <br>
 
 
 # Introduction
@@ -80,7 +80,7 @@ scikit-learn==1.0.2
 ```
 An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml*.
 
-# Modeling and Measures
+# Modeling
 
 We are going to use several ML Classifiers algorithms, mostly from `scikit-learn`:
 
