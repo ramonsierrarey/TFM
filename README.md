@@ -9,8 +9,8 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Introduction](#introduction) <br>
 [Methodology](#methodology) <br>
 [Requirements](#requirements) <br>
-[Conclusions](#conclusions) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
+[Conclusions](#conclusions) <br>
 
 
 # Introduction
