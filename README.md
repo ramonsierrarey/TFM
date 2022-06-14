@@ -7,8 +7,11 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
   # Table of Contents
 
 [Introduction](#introduction) <br>
-
 [Methodology](#methodology) <br>
+[Data adquisition](#Data-adquisition) <br>
+[# Data cleansing and preparation](# Data-cleansing-and-preparation) <br>
+[Analysis](#analysis) <br>
+[Frontend](#frontend) <br>
 [Requirements](#requirements) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
 [Conclusions](#conclusions) <br>
@@ -27,7 +30,7 @@ We have used linear regression and non-linear regression models such as Decision
 
 
   
-  ## Data adquisition
+# Data adquisition
 We get two types of sources to begin the process: esternal and internal data:
 * _external data_:We receive the data. There are two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
 
@@ -36,15 +39,15 @@ We get two types of sources to begin the process: esternal and internal data:
                       - Second step. Get the address and extract the Zip Code of the shopping centres names with **Google API** (Geocoding API).  
                       - Third step. Get the latitude and longitude of all the spanish zip codes ("Datos_CP.xlsx") with **Google API**.
 
-## Data cleansing and preparation
+# Data cleansing and preparation
 We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.  
 we have the sales of our current shoping center stores. We link sales per zipcode and sales point  with their coordinates (lat and lon). We get the sales per distance and the size of the market.
 
-## Analysis
+# Analysis
 We would like to predict the sales of a homefurnishing shop (in a shopping centre). we base this analysis taking in cosideration the market share  that cover a zip code and the distance between zip codes. 
 
   
-## Frontend
+# Frontend
 we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required to be installed and dive into the report ( PBI_Visualization.pbi).
 But loging account is not needed.
 
