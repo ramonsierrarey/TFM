@@ -2,7 +2,8 @@
 ![Logo_TFM](https://user-images.githubusercontent.com/56726458/173163556-e6e82cca-f374-400a-8a60-4f13fa8ca043.JPG)
   
   This project has been developed by [Francisco Javier Planells](https://github.com/fplanells) and [Ramon Sierra Rey](https://github.com/ramonsierrarey)  
-Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.
+Master Final Project - Master in Data Science - [KSchool](https://www.kschool.com/) Madrid.  
+To get more detail information [Memoria](https://github.com/ramonsierrarey/TFM/wiki/Memoria)
   
   # Table of Contents
 
@@ -15,7 +16,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 [Requirements](#requirements) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
 [Conclusions](#conclusions) <br>
-[MEMORIA](https://github.com/ramonsierrarey/TFM/wiki/Memoria) <br>
+[Memoria](https://github.com/ramonsierrarey/TFM/wiki/Memoria) <br>
 
 
 # Introduction
