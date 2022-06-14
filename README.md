@@ -7,6 +7,7 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
   # Table of Contents
 
 [Introduction](#introduction) <br>
+
 [Methodology](#methodology) <br>
 [Requirements](#requirements) <br>
 [Modeling and Measures](#modeling-and-measures) <br>
@@ -21,6 +22,10 @@ Master Final Project - Master in Data Science - [KSchool](https://www.kschool.co
 
   
 # Methodology
+
+We have used linear regression and non-linear regression models such as Decision Trees or K-Nearest Neighbours to detect the best machine learning techniques.
+
+
   
   ## Data adquisition
 We get two types of sources to begin the process: esternal and internal data:
