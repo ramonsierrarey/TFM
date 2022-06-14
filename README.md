@@ -120,22 +120,3 @@ All these models with differente analysis metrics:
 ![Pbi_01](https://user-images.githubusercontent.com/56726458/173658928-6969bc9a-3d4d-4767-b3f9-14453c81d293.JPG)
 
 ![Pbi_02](https://user-images.githubusercontent.com/56726458/173659602-7473efe5-09df-4045-b92d-b95c998a9cb9.JPG)
-
-
-# TFM - Análisis de expansión de negocio
-
-Pasos:
-
-0. Necesitamos ubicar, con su Latitud y Longitud, los códigos postales del pais, 
-   * Input: Fuente externa: Base datos códigos postales "Datos_CP.xlsx".
-   * Output: "Codigos Postales.csv". Donde obtendremos listado de códigos postales de España "CP", su tamaño de mercado (€) y ubicación.
-
-  <div align="left"><img src="https://user-images.githubusercontent.com/56726458/161086803-b24acbf4-8cc3-4bc6-9991-82bcbddbff45.JPG" width="286" height="233"> 
-
-1. Creamos base de datos con el listado de centros comerciales. Lo conseguimos escrapeando la web: https://www.centro-comercial.org
-   Para determinar su ubicación. Lo conseguimos mediante la API de Google Maps, obteniendo: Latitud, Longitus, Dirección. De la Dirección extraeremos el código postal.
-   * Input: https://www.centro-comercial.org
-   * Output: fichero "Centros_Comerciales.csv"
-   
-<div align="left"><img src="https://user-images.githubusercontent.com/56726458/160465542-9ff20102-2ded-491a-b6fc-c69b39414301.JPG" width="286" height="233">
-
