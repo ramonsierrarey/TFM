@@ -86,6 +86,7 @@ We are going to use several ML Classifiers algorithms, mostly from `scikit-learn
 
 * Linear Regression
 
+![LR_Model](https://user-images.githubusercontent.com/56726458/173640185-e1c3fe5a-e983-4787-9e3c-6279a6e3e17e.JPG)
 
 * K-nearest Neighbors + GS (GridSearch)
 * Decision Tree + GS
