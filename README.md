@@ -78,13 +78,9 @@ For avoiding future compatibility issues, here are the versions of the main key 
 
 ```
 pandas==1.3.5
-
 googlemaps==4.6.0
-
 matplotlib==3.5.1
-
 jupyter==1.0.0
-
 scikit-learn==1.0.2
 ```
 An conda export ennvironment file (.yml extension) has been created. It is uploaded in the repository as *TFM_environment.yml*.
