@@ -113,8 +113,9 @@ All these models with differente analysis metrics:
 * Correlation (between the prediction and the real value)  
 * Bias (Average of errors)  
 
-![Compare_metrics](https://user-images.githubusercontent.com/56726458/173650957-1c355721-6f4b-4e17-889f-815c5fcdcaeb.JPG)
+![Compare_metrics](https://user-images.githubusercontent.com/56726458/173650957-1c355721-6f4b-4e17-889f-815c5fcdcaeb.JPG)  
 
+We analize all the models, metrics and we select Decision Tree model to get our market share prediction (MShare_prediction) and calculate the sales prediction.  
 
 # Conclusions
 
