@@ -115,7 +115,9 @@ All these models with differente analysis metrics:
 
 ![Compare_metrics](https://user-images.githubusercontent.com/56726458/173650957-1c355721-6f4b-4e17-889f-815c5fcdcaeb.JPG)  
 
+
 We analize all the models, metrics and we select Decision Tree model to get our market share prediction (MShare_prediction) and calculate the sales prediction.  
+
 
 ![06_Output](https://user-images.githubusercontent.com/56726458/173892537-3c41416c-0484-4941-89e8-3404647e7a7e.JPG)  
 
