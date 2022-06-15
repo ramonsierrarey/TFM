@@ -49,7 +49,7 @@ We would like to predict the sales of a homefurnishing shop (in a shopping centr
 
   
 # Frontend
-we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required to be installed and dive into the report ( PBI_Visualization.pbi).
+we use **Power BI Desktop** as a frontend tool. Power BI desktop version is required to be installed and dive into the report (PBI_Visualization.pbi).
 But loging account is not needed.
 
 
@@ -119,7 +119,9 @@ We analize all the models, metrics and we select Decision Tree model to get our 
 
 
 
-# Conclusions
+# Conclusions  
+
+
 
 ![Pbi_01](https://user-images.githubusercontent.com/56726458/173658928-6969bc9a-3d4d-4767-b3f9-14453c81d293.JPG)
 
