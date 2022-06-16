@@ -122,7 +122,7 @@ We analize all the models, metrics and we select Decision Tree model to get our 
 # Conclusions  
 
 
-At the end of all this Master's Thesis, this exercise helps us to apply and practice with diferent techniques and methodology learnt. It learns us to obtain, manage, analice and project data. Sometimes the data was difficult to get, or we had to find the way to build it. It has been a good exercise.
+At the end of all this Master's Thesis, this exercise helps us to apply and practice with diferent techniques and methodology learnt. It learns us to obtain, manage, analice and predict data. Sometimes the data was difficult to get, or we had to find the way to build it. It has been a good exercise.
 
 The general overview about what we would like to find was clear. From data science perspective we would like to resolve or give more information in the moment of invest in a new shop or a new business format. We think it has been resolved. There has been limitations to get data base of some varibles (we got it from external sources or was modified from original data), but we are conscious that with these new skills learned and our business knowledge, We have been able to face them.
 
