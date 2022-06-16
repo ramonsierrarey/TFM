@@ -122,4 +122,7 @@ We analize all the models, metrics and we select Decision Tree model to get our 
 # Conclusions  
 
 
-
+At the end of all this process, this exercise helps us to apply and practice with diferent techniques and methodology learnt to obtain, manage, analice and project data.
+Sometimes the data was difficult to get, or you had to find the way to build it.  
+The general overview about what we would like to find was clear. From data science perspective we would like to resolve or give more information in the moment of invest in a new shop or a new business format. There were limitations to get data base of some varibles (we got it from external sources or was modified from original data). But we are conscious that with these new skills learned and our business knowledge, we could do great things.  
+In this project we have developed an easy way to get potential locations. The model can be more complex because we know it can be more varibles to take in consideration, but the concept and the general structure is the same.
