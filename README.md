@@ -32,7 +32,7 @@ We have used linear regression and non-linear regression models such as Decision
 
   
 # Data acquisition
-We get two types of sources to begin the process: esternal and internal data:
+We get two types of sources to begin the process: external and internal data:
 * _external data_:We receive the data. There are two files: "Datos_CP.xlsx" (all spanish zip code and size of the homefurnishing market) and "Sales_per_point.csv"  (an theorical exercise of differente shops and sales per zip code).
 
 * _internal data_: we generate the data.Method used: Web Scraping. We have used **Beautifulsoup4** library to scrape and create a data base.  
@@ -41,11 +41,11 @@ We get two types of sources to begin the process: esternal and internal data:
                       - Third step. Get the latitude and longitude of all the spanish zip codes ("Datos_CP.xlsx") with **Google API**.
 
 # Data cleansing and preparation
-We detect that the influence area of this kind of business is about 20 km. We calculate distance betwwen zipcodes to get areas per zip code of 20 km.  
-we have the sales of our current shoping center stores. We link sales per zipcode and sales point  with their coordinates (lat and lon). We get the sales per distance and the size of the market.
+We have the sales of our current shoping center stores. We link sales per zipcode and sales point with their coordinates (lat and lon) and with this we get the sales per distance and the size of the market. Doing this, we've detected that the influence area of this kind of business is about 20 km. With this information, we have calculated the distance between all spanish zipcodes, geting a file with the areas per zip code of 20 km.  
+
 
 # Analysis
-We would like to predict the sales of a homefurnishing shop (in a shopping centre). we base this analysis taking in cosideration the market share  that cover a zip code and the distance between zip codes. 
+We would like to predict the sales of a new homefurnishing shop (in a shopping centre). We base this analysis taking in cosideration the market share  that cover a zip code and the distance between zip codes. 
 
   
 # Frontend
