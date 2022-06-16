@@ -123,6 +123,3 @@ We analize all the models, metrics and we select Decision Tree model to get our 
 
 
 
-![Pbi_01](https://user-images.githubusercontent.com/56726458/173658928-6969bc9a-3d4d-4767-b3f9-14453c81d293.JPG)
-
-![Pbi_02](https://user-images.githubusercontent.com/56726458/173659602-7473efe5-09df-4045-b92d-b95c998a9cb9.JPG)
