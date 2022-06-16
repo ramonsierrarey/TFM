@@ -126,4 +126,4 @@ At the end of all this Master's Thesis, this exercise helps us to apply and prac
 
 The general overview about what we would like to find was clear. From data science perspective we would like to resolve or give more information in the moment of invest in a new shop or a new business format. We think it has been resolved. There has been limitations to get data base of some varibles (we got it from external sources or it was modified from original data), but we are conscious that with these new skills learned and our business knowledge, We have been able to face them.
 
-In this project we have developed a base way to get potential locations. The model can be more complex there are more varibles to take in consideration like purchase power, rent space,... But the concept and the general idea is the same.
+In this project we have developed a base way to get potential locations. The model can be more complex, there are more varibles to take in consideration like purchase power, rent space,..., but the concept and the general idea is the same.
